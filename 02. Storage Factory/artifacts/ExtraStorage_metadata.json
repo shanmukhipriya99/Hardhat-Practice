@@ -106,7 +106,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Storage Factory/ExtraStorage.sol": "ExtraStorage"
+			"02. Storage Factory/ExtraStorage.sol": "ExtraStorage"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -120,7 +120,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Storage Factory/ExtraStorage.sol": {
+		"02. Storage Factory/ExtraStorage.sol": {
 			"keccak256": "0x91ef79cc4033330469a7eda4d19e0703de8be27838b55fc76d24145d5bbc742c",
 			"license": "MIT",
 			"urls": [
@@ -128,7 +128,7 @@
 				"dweb:/ipfs/QmYFRNN6fb8K7b9ffF5q2KfQykttdHSC6RLiTTn9bdAy9M"
 			]
 		},
-		"Storage Factory/SimpleStorage.sol": {
+		"02. Storage Factory/SimpleStorage.sol": {
 			"keccak256": "0xa74750469320960e3f5942fb1d6e619e8d2ab9535275c07e33c1946a9ce57bd0",
 			"license": "MIT",
 			"urls": [
